@@ -1,0 +1,408 @@
+2021-04-19 16:09:33.542 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 10668 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:09:33.548 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:09:36.044 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:09:36.057 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:09:36.058 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:09:36.059 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:09:36.187 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:09:36.187 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 2431 ms
+2021-04-19 16:09:36.578 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:09:38.538 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:09:38.554 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:09:38.568 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 6.96 seconds (JVM running for 11.698)
+2021-04-19 16:09:38.571 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:09:38.573 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:13:33.085 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:13:33.085 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:13:33.088 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 2 ms
+2021-04-19 16:16:28.403 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 10564 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:16:28.409 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:16:30.505 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:16:30.526 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:16:30.527 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:16:30.528 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:16:30.693 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:16:30.694 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 2149 ms
+2021-04-19 16:16:32.022 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:16:32.268 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:16:32.292 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:16:32.313 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 5.338 seconds (JVM running for 7.241)
+2021-04-19 16:16:32.317 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:16:32.321 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:16:46.405 |-INFO [http-nio-59031-exec-2] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:16:46.405 |-INFO [http-nio-59031-exec-2] o.s.w.s.DispatcherServlet [525] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:16:46.407 |-INFO [http-nio-59031-exec-2] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:17:26.045 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 5464 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:17:26.051 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:17:27.506 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:17:27.518 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:17:27.519 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:17:27.519 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:17:27.641 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:17:27.641 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1477 ms
+2021-04-19 16:17:28.828 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:17:29.046 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:17:29.062 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:17:29.076 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.34 seconds (JVM running for 5.995)
+2021-04-19 16:17:29.078 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:17:29.081 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:17:58.222 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:17:58.222 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:17:58.224 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:18:41.778 |-INFO [SpringContextShutdownHook] o.s.b.a.ApplicationAvailability [89] []-[]-[] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-04-19 16:19:14.808 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 8756 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:19:14.826 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:19:16.186 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:19:16.198 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:19:16.199 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:19:16.200 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:19:16.323 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:19:16.323 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1411 ms
+2021-04-19 16:19:17.355 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:19:17.568 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:19:17.584 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:19:17.600 |-INFO [main] c.f.s.e.EsApplication [61] []-[]-[] - Started EsApplication in 4.058 seconds (JVM running for 6.752)
+2021-04-19 16:19:17.603 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:19:17.605 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:19:47.161 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:19:47.161 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:19:47.162 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:21:46.982 |-INFO [SpringContextShutdownHook] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-04-19 16:21:57.350 |-INFO [main] c.f.s.e.EsApplication [55] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 7424 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:21:57.382 |-INFO [main] c.f.s.e.EsApplication [678] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:21:59.152 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:21:59.168 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:21:59.169 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:21:59.170 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:21:59.316 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:21:59.317 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1801 ms
+2021-04-19 16:22:00.522 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:22:00.759 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:22:00.780 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:22:00.795 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.685 seconds (JVM running for 6.331)
+2021-04-19 16:22:00.798 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:22:00.800 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:23:49.605 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:23:49.605 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:23:49.606 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:23:54.839 |-ERROR [ES_SEARCH] c.RestHighLevelClientService [?] []-[]-[] - user_test:{"from":0,"size":10,"query":{"function_score":{"query":{"bool":{"should":[{"term":{"name":{"value":"444","boost":100.0}}}],"adjust_pure_negative":true,"minimum_should_match":"1","boost":1.0}},"functions":[],"score_mode":"sum","boost_mode":"sum","max_boost":3.4028235E38,"boost":1.0}},"_source":{"includes":["id","name","src"],"excludes":[]},"sort":[{"_score":{"order":"desc"}}]}
+java.net.ConnectException: Timeout connecting to [localhost/127.0.0.1:9200]
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:880)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:283)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:270)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:1654)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:1624)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:1594)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1110)
+	at client.RestHighLevelClientService.search(RestHighLevelClientService.java:316)
+	at com.fsk.staty.es.search.query.BaseSearch.search(BaseSearch.java:140)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:40)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:26)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Timeout connecting to [localhost/127.0.0.1:9200]
+	at org.apache.http.nio.pool.RouteSpecificPool.timeout(RouteSpecificPool.java:169)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.requestTimeout(AbstractNIOConnPool.java:632)
+	at org.apache.http.nio.pool.AbstractNIOConnPool$InternalSessionRequestCallback.timeout(AbstractNIOConnPool.java:898)
+	at org.apache.http.impl.nio.reactor.SessionRequestImpl.timeout(SessionRequestImpl.java:198)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processTimeouts(DefaultConnectingIOReactor.java:213)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvents(DefaultConnectingIOReactor.java:158)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor.execute(AbstractMultiworkerIOReactor.java:351)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.execute(PoolingNHttpClientConnectionManager.java:221)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClientBase$1.run(CloseableHttpAsyncClientBase.java:64)
+	... 1 common frames omitted
+2021-04-19 16:23:54.974 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"exception":"java.net.ConnectException","appName":"user_test","spendTime":1405,"total":0,"requestTime":"20210419162354","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 16:24:34.808 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 12040 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:24:34.814 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:24:36.620 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:24:36.632 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:24:36.634 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:24:36.634 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:24:36.773 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:24:36.773 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1808 ms
+2021-04-19 16:24:37.820 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:24:38.032 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:24:38.048 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:24:38.062 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.555 seconds (JVM running for 6.09)
+2021-04-19 16:24:38.065 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:24:38.067 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:24:47.725 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:24:47.725 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:24:47.727 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:24:50.795 |-ERROR [ES_SEARCH] c.RestHighLevelClientService [?] []-[]-[] - user_test:{"from":0,"size":10,"query":{"function_score":{"query":{"bool":{"should":[{"term":{"name":{"value":"444","boost":100.0}}}],"adjust_pure_negative":true,"minimum_should_match":"1","boost":1.0}},"functions":[],"score_mode":"sum","boost_mode":"sum","max_boost":3.4028235E38,"boost":1.0}},"_source":{"includes":["id","name","src"],"excludes":[]},"sort":[{"_score":{"order":"desc"}}]}
+java.net.ConnectException: Timeout connecting to [localhost/127.0.0.1:9200]
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:880)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:283)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:270)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:1654)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:1624)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:1594)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1110)
+	at client.RestHighLevelClientService.search(RestHighLevelClientService.java:316)
+	at com.fsk.staty.es.search.query.BaseSearch.search(BaseSearch.java:140)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:40)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:26)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Timeout connecting to [localhost/127.0.0.1:9200]
+	at org.apache.http.nio.pool.RouteSpecificPool.timeout(RouteSpecificPool.java:169)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.requestTimeout(AbstractNIOConnPool.java:632)
+	at org.apache.http.nio.pool.AbstractNIOConnPool$InternalSessionRequestCallback.timeout(AbstractNIOConnPool.java:898)
+	at org.apache.http.impl.nio.reactor.SessionRequestImpl.timeout(SessionRequestImpl.java:198)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processTimeouts(DefaultConnectingIOReactor.java:213)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvents(DefaultConnectingIOReactor.java:158)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor.execute(AbstractMultiworkerIOReactor.java:351)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.execute(PoolingNHttpClientConnectionManager.java:221)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClientBase$1.run(CloseableHttpAsyncClientBase.java:64)
+	... 1 common frames omitted
+2021-04-19 16:24:50.885 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"exception":"java.net.ConnectException","appName":"user_test","spendTime":1163,"total":0,"requestTime":"20210419162450","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 16:25:20.508 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 3356 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:25:20.513 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:25:22.172 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:25:22.188 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:25:22.190 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:25:22.190 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:25:22.319 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:25:22.320 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1686 ms
+2021-04-19 16:25:23.448 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:25:23.681 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:25:23.697 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:25:23.710 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.536 seconds (JVM running for 6.018)
+2021-04-19 16:25:23.712 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:25:23.715 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:25:33.302 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:25:33.303 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:25:33.305 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:25:36.402 |-ERROR [ES_SEARCH] c.RestHighLevelClientService [?] []-[]-[] - user_test:{"from":0,"size":10,"query":{"function_score":{"query":{"bool":{"should":[{"term":{"name":{"value":"444","boost":100.0}}}],"adjust_pure_negative":true,"minimum_should_match":"1","boost":1.0}},"functions":[],"score_mode":"sum","boost_mode":"sum","max_boost":3.4028235E38,"boost":1.0}},"_source":{"includes":["id","name","src"],"excludes":[]},"sort":[{"_score":{"order":"desc"}}]}
+java.net.ConnectException: Connection refused: no further information
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:880)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:283)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:270)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:1654)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:1624)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:1594)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1110)
+	at client.RestHighLevelClientService.search(RestHighLevelClientService.java:316)
+	at com.fsk.staty.es.search.query.BaseSearch.search(BaseSearch.java:140)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:40)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:26)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvent(DefaultConnectingIOReactor.java:174)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvents(DefaultConnectingIOReactor.java:148)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor.execute(AbstractMultiworkerIOReactor.java:351)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.execute(PoolingNHttpClientConnectionManager.java:221)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClientBase$1.run(CloseableHttpAsyncClientBase.java:64)
+	... 1 common frames omitted
+2021-04-19 16:25:36.498 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"exception":"java.net.ConnectException","appName":"user_test","spendTime":1182,"total":0,"requestTime":"20210419162536","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 16:26:43.506 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 11148 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:26:43.511 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:26:45.322 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:26:45.334 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:26:45.335 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:26:45.336 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:26:45.462 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:26:45.462 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1786 ms
+2021-04-19 16:26:46.598 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:26:46.828 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:26:46.846 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [220] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:26:46.860 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.953 seconds (JVM running for 6.586)
+2021-04-19 16:26:46.863 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:26:46.866 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:27:12.163 |-INFO [http-nio-59031-exec-3] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:27:12.163 |-INFO [http-nio-59031-exec-3] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:27:12.165 |-INFO [http-nio-59031-exec-3] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:27:15.565 |-ERROR [ES_SEARCH] c.RestHighLevelClientService [?] []-[]-[] - user_test:{"from":0,"size":10,"query":{"function_score":{"query":{"bool":{"should":[{"term":{"name":{"value":"444","boost":100.0}}}],"adjust_pure_negative":true,"minimum_should_match":"1","boost":1.0}},"functions":[],"score_mode":"sum","boost_mode":"sum","max_boost":3.4028235E38,"boost":1.0}},"_source":{"includes":["id","name","src"],"excludes":[]},"sort":[{"_score":{"order":"desc"}}]}
+java.net.ConnectException: Connection refused: no further information
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:880)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:283)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:270)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:1654)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:1624)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:1594)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1110)
+	at client.RestHighLevelClientService.search(RestHighLevelClientService.java:316)
+	at com.fsk.staty.es.search.query.BaseSearch.search(BaseSearch.java:140)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:40)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:26)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvent(DefaultConnectingIOReactor.java:174)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvents(DefaultConnectingIOReactor.java:148)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor.execute(AbstractMultiworkerIOReactor.java:351)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.execute(PoolingNHttpClientConnectionManager.java:221)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClientBase$1.run(CloseableHttpAsyncClientBase.java:64)
+	... 1 common frames omitted
+2021-04-19 16:27:15.654 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"exception":"java.net.ConnectException","appName":"user_test","spendTime":1160,"total":0,"requestTime":"20210419162715","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 16:27:51.480 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 9444 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:27:51.485 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:27:53.335 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:27:53.348 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:27:53.349 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:27:53.350 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:27:53.477 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:27:53.477 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1796 ms
+2021-04-19 16:27:54.638 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:27:54.845 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:27:54.861 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:27:54.875 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.692 seconds (JVM running for 6.254)
+2021-04-19 16:27:54.877 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:27:54.879 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:28:17.023 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 1320 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:28:17.051 |-INFO [main] c.f.s.e.EsApplication [678] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:28:18.587 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:28:18.602 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:28:18.603 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:28:18.603 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:28:18.731 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:28:18.732 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1579 ms
+2021-04-19 16:28:19.813 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:28:20.041 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:28:20.057 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:28:20.071 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.477 seconds (JVM running for 6.107)
+2021-04-19 16:28:20.073 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:28:20.076 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:28:24.611 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:28:24.612 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:28:24.614 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 2 ms
+2021-04-19 16:28:28.248 |-ERROR [ES_SEARCH] c.RestHighLevelClientService [?] []-[]-[] - user_test:{"from":0,"size":10,"query":{"function_score":{"query":{"bool":{"should":[{"term":{"name":{"value":"444","boost":100.0}}}],"adjust_pure_negative":true,"minimum_should_match":"1","boost":1.0}},"functions":[],"score_mode":"sum","boost_mode":"sum","max_boost":3.4028235E38,"boost":1.0}},"_source":{"includes":["id","name","src"],"excludes":[]},"sort":[{"_score":{"order":"desc"}}]}
+java.net.ConnectException: Connection refused: no further information
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:880)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:283)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:270)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:1654)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:1624)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:1594)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1110)
+	at client.RestHighLevelClientService.search(RestHighLevelClientService.java:316)
+	at com.fsk.staty.es.search.query.BaseSearch.search(BaseSearch.java:140)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:40)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:26)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvent(DefaultConnectingIOReactor.java:174)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvents(DefaultConnectingIOReactor.java:148)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor.execute(AbstractMultiworkerIOReactor.java:351)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.execute(PoolingNHttpClientConnectionManager.java:221)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClientBase$1.run(CloseableHttpAsyncClientBase.java:64)
+	... 1 common frames omitted
+2021-04-19 16:28:28.342 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"exception":"java.net.ConnectException","appName":"user_test","spendTime":1156,"total":0,"requestTime":"20210419162828","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 16:41:21.468 |-ERROR [ES_SEARCH] c.RestHighLevelClientService [?] []-[]-[] - user_test:{"from":0,"size":10,"query":{"function_score":{"query":{"bool":{"should":[{"term":{"name":{"value":"444","boost":100.0}}}],"adjust_pure_negative":true,"minimum_should_match":"1","boost":1.0}},"functions":[],"score_mode":"sum","boost_mode":"sum","max_boost":3.4028235E38,"boost":1.0}},"_source":{"includes":["id","name","src"],"excludes":[]},"sort":[{"_score":{"order":"desc"}}]}
+java.net.ConnectException: Timeout connecting to [localhost/127.0.0.1:9200]
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:880)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:283)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:270)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:1654)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:1624)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:1594)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1110)
+	at client.RestHighLevelClientService.search(RestHighLevelClientService.java:316)
+	at com.fsk.staty.es.search.query.BaseSearch.search(BaseSearch.java:140)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:40)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:26)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Timeout connecting to [localhost/127.0.0.1:9200]
+	at org.apache.http.nio.pool.RouteSpecificPool.timeout(RouteSpecificPool.java:169)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.requestTimeout(AbstractNIOConnPool.java:632)
+	at org.apache.http.nio.pool.AbstractNIOConnPool$InternalSessionRequestCallback.timeout(AbstractNIOConnPool.java:898)
+	at org.apache.http.impl.nio.reactor.SessionRequestImpl.timeout(SessionRequestImpl.java:198)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processTimeouts(DefaultConnectingIOReactor.java:213)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvents(DefaultConnectingIOReactor.java:158)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor.execute(AbstractMultiworkerIOReactor.java:351)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.execute(PoolingNHttpClientConnectionManager.java:221)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClientBase$1.run(CloseableHttpAsyncClientBase.java:64)
+	... 1 common frames omitted
+2021-04-19 16:41:21.469 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"exception":"java.net.ConnectException","appName":"user_test","spendTime":1008,"total":0,"requestTime":"20210419164121","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 16:41:37.737 |-INFO [SpringContextShutdownHook] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-04-19 16:41:50.053 |-INFO [main] c.f.s.e.EsApplication [55] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 11196 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 16:41:50.099 |-INFO [main] c.f.s.e.EsApplication [678] []-[]-[] - The following profiles are active: dev
+2021-04-19 16:41:51.821 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 16:41:51.834 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:41:51.835 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 16:41:51.836 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 16:41:51.969 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 16:41:51.969 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1750 ms
+2021-04-19 16:41:52.978 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 16:41:53.190 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 16:41:53.206 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 16:41:53.219 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 4.788 seconds (JVM running for 6.53)
+2021-04-19 16:41:53.222 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 16:41:53.224 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 16:42:33.610 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 16:42:33.611 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 16:42:33.612 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 16:42:36.620 |-ERROR [ES_SEARCH] c.RestHighLevelClientService [?] []-[]-[] - user_test:{"from":0,"size":10,"query":{"function_score":{"query":{"bool":{"should":[{"term":{"name":{"value":"444","boost":100.0}}}],"adjust_pure_negative":true,"minimum_should_match":"1","boost":1.0}},"functions":[],"score_mode":"sum","boost_mode":"sum","max_boost":3.4028235E38,"boost":1.0}},"_source":{"includes":["id","name","src"],"excludes":[]},"sort":[{"_score":{"order":"desc"}}]}
+java.net.ConnectException: Connection refused: no further information
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:880)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:283)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:270)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:1654)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:1624)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:1594)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1110)
+	at client.RestHighLevelClientService.search(RestHighLevelClientService.java:316)
+	at com.fsk.staty.es.search.query.BaseSearch.search(BaseSearch.java:140)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:40)
+	at com.fsk.staty.es.search.query.EsBaseSearch.call(EsBaseSearch.java:26)
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266)
+	at java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvent(DefaultConnectingIOReactor.java:174)
+	at org.apache.http.impl.nio.reactor.DefaultConnectingIOReactor.processEvents(DefaultConnectingIOReactor.java:148)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor.execute(AbstractMultiworkerIOReactor.java:351)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.execute(PoolingNHttpClientConnectionManager.java:221)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClientBase$1.run(CloseableHttpAsyncClientBase.java:64)
+	... 1 common frames omitted
+2021-04-19 16:42:36.703 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"exception":"java.net.ConnectException","appName":"user_test","spendTime":1210,"total":0,"requestTime":"20210419164236","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 17:12:46.685 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Starting EsApplication using Java 1.8.0_241 on WINDOWS-G989IRU with PID 10916 (E:\test-project\es-search\target\classes started by Administrator in E:\test-project\es-search)
+2021-04-19 17:12:46.701 |-INFO [main] c.f.s.e.EsApplication [678] []-[]-[] - The following profiles are active: dev
+2021-04-19 17:12:48.487 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat initialized with port(s): 59031 (http)
+2021-04-19 17:12:48.501 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Initializing ProtocolHandler ["http-nio-59031"]
+2021-04-19 17:12:48.502 |-INFO [main] o.a.c.c.StandardService [?] []-[]-[] - Starting service [Tomcat]
+2021-04-19 17:12:48.503 |-INFO [main] o.a.c.c.StandardEngine [?] []-[]-[] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-19 17:12:48.668 |-INFO [main] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring embedded WebApplicationContext
+2021-04-19 17:12:48.669 |-INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [?] []-[]-[] - Root WebApplicationContext: initialization completed in 1835 ms
+2021-04-19 17:12:49.798 |-INFO [main] o.s.s.c.ThreadPoolTaskExecutor [?] []-[]-[] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 17:12:50.016 |-INFO [main] o.a.c.h.Http11NioProtocol [?] []-[]-[] - Starting ProtocolHandler ["http-nio-59031"]
+2021-04-19 17:12:50.032 |-INFO [main] o.s.b.w.e.t.TomcatWebServer [?] []-[]-[] - Tomcat started on port(s): 59031 (http) with context path ''
+2021-04-19 17:12:50.045 |-INFO [main] c.f.s.e.EsApplication [?] []-[]-[] - Started EsApplication in 5.057 seconds (JVM running for 7.075)
+2021-04-19 17:12:50.047 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state LivenessState changed to CORRECT
+2021-04-19 17:12:50.049 |-INFO [main] o.s.b.a.ApplicationAvailability [?] []-[]-[] - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-04-19 17:12:54.360 |-INFO [http-nio-59031-exec-1] o.a.c.c.C.[.[.[/] [?] []-[]-[] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 17:12:54.360 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Initializing Servlet 'dispatcherServlet'
+2021-04-19 17:12:54.361 |-INFO [http-nio-59031-exec-1] o.s.w.s.DispatcherServlet [?] []-[]-[] - Completed initialization in 1 ms
+2021-04-19 17:12:57.268 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"appName":"user_test","spendTime":428,"total":6,"requestTime":"20210419171257","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
+2021-04-19 17:13:17.709 |-INFO [ES_SEARCH] ES_ACCESS [?] []-[]-[] - {"appName":"user_test","spendTime":18,"total":6,"requestTime":"20210419171317","qTime":0,"query":"{\"from\":0,\"size\":10,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"term\":{\"name\":{\"value\":\"444\",\"boost\":100.0}}}],\"adjust_pure_negative\":true,\"minimum_should_match\":\"1\",\"boost\":1.0}},\"functions\":[],\"score_mode\":\"sum\",\"boost_mode\":\"sum\",\"max_boost\":3.4028235E38,\"boost\":1.0}},\"_source\":{\"includes\":[\"id\",\"name\",\"src\"],\"excludes\":[]},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}"}
