@@ -1,0 +1,22 @@
+server:
+  port: 59031
+spring:
+  application:
+    name: es-search
+  profiles:
+    active: dev
+logging:
+  config: classpath:logback-spring.xml
+
+es:
+  query:
+    indexSuffix:
+    config:
+      -
+        id: user_test
+        index: user_test
+        term: {"name":100}
+        sort: '_score:DESC'
+        fields: "id,name,src"
+       # match: {}
+      #  matchPhrase{}

@@ -1,0 +1,16 @@
+
+spring:
+  application:
+    name: es-search
+myes:
+  host: 42.192.51.67
+  port: 9200
+  userName:
+  password:
+  nodes: 42.192.51.67:9200
+  scheme: http
+  charset: UTF-8
+  client:
+    connectTimeOut: 5000
+    socketTimeout: 30000
+    connectionRequestTimeout: 5000

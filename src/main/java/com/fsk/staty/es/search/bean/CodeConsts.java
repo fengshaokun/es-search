@@ -10,6 +10,7 @@ public interface CodeConsts {
     //分页-默认页码
     int PAGE_DEFAULT_INDEX = 1;
 
-    //
+    //分页-默认每页数目
+    int PAGE_DEFAULT_ROWS = 10;
 
 }
